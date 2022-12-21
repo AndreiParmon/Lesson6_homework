@@ -1,0 +1,15 @@
+E:\GeekBrains\Seminars\Introduction to programming languages C#\Lesson6_homework\task41\bin\Debug\net6.0\task41.exe
+E:\GeekBrains\Seminars\Introduction to programming languages C#\Lesson6_homework\task41\bin\Debug\net6.0\task41.deps.json
+E:\GeekBrains\Seminars\Introduction to programming languages C#\Lesson6_homework\task41\bin\Debug\net6.0\task41.runtimeconfig.json
+E:\GeekBrains\Seminars\Introduction to programming languages C#\Lesson6_homework\task41\bin\Debug\net6.0\task41.dll
+E:\GeekBrains\Seminars\Introduction to programming languages C#\Lesson6_homework\task41\bin\Debug\net6.0\task41.pdb
+E:\GeekBrains\Seminars\Introduction to programming languages C#\Lesson6_homework\task41\obj\Debug\net6.0\task41.csproj.AssemblyReference.cache
+E:\GeekBrains\Seminars\Introduction to programming languages C#\Lesson6_homework\task41\obj\Debug\net6.0\task41.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\Seminars\Introduction to programming languages C#\Lesson6_homework\task41\obj\Debug\net6.0\task41.AssemblyInfoInputs.cache
+E:\GeekBrains\Seminars\Introduction to programming languages C#\Lesson6_homework\task41\obj\Debug\net6.0\task41.AssemblyInfo.cs
+E:\GeekBrains\Seminars\Introduction to programming languages C#\Lesson6_homework\task41\obj\Debug\net6.0\task41.csproj.CoreCompileInputs.cache
+E:\GeekBrains\Seminars\Introduction to programming languages C#\Lesson6_homework\task41\obj\Debug\net6.0\task41.dll
+E:\GeekBrains\Seminars\Introduction to programming languages C#\Lesson6_homework\task41\obj\Debug\net6.0\refint\task41.dll
+E:\GeekBrains\Seminars\Introduction to programming languages C#\Lesson6_homework\task41\obj\Debug\net6.0\task41.pdb
+E:\GeekBrains\Seminars\Introduction to programming languages C#\Lesson6_homework\task41\obj\Debug\net6.0\task41.genruntimeconfig.cache
+E:\GeekBrains\Seminars\Introduction to programming languages C#\Lesson6_homework\task41\obj\Debug\net6.0\ref\task41.dll
